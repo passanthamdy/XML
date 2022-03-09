@@ -1,0 +1,23 @@
+empContact{
+    background-color: rgb(130, 107, 139);
+    color: whitesmoke;
+}
+info{
+    display: block;
+    width: 500;
+    font-size: 30px;
+    margin:15px;
+    padding-bottom: 60px;
+    text-align: center;
+
+}
+phone{
+    display: block;
+    text-align: center;
+    margin:10px;
+}
+address1,address2{
+    display: block;
+    text-align: center;
+    padding: 5px;
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="emp.css"?>
+<empContact>
+	<info>
+		<name>Passant</name>
+		<phones>
+			<phone type="mobile">019012589215</phone>
+			<phone type="home">78922313</phone>
+		</phones>
+		<addresses>
+			<address1>
+				<street>Street1</street>
+				<buildingno>99</buildingno>
+				<region>Alex</region>
+				<city>Alexandria</city>
+				<country>Egypt</country>
+			</address1>
+			<address2>
+				<street>street2</street>
+				<buildingno>22</buildingno>
+				<region>Alex</region>
+				<city>Alexandria</city>
+				<country>Egypt</country>
+			</address2>
+		</addresses>
+		<email>Passant@gmail.com</email>
+
+	</info>
+	<info>
+		<name>Youmna</name>
+		<phones>
+			<phone type="mobile">019012589215</phone>
+			<phone type="home">78922313</phone>
+		</phones>
+		<addresses>
+			<address1>
+				<street>Street1</street>
+				<buildingno>99</buildingno>
+				<region>Alex</region>
+				<city>Alexandria</city>
+				<country>Egypt</country>
+			</address1>
+			<address2>
+				<street>street2</street>
+				<buildingno>22</buildingno>
+				<region>Alex</region>
+				<city>Alexandria</city>
+				<country>Egypt</country>
+			</address2>
+		</addresses>
+		<email>youmna@gmail.com</email>
+
+	</info>
+</empContact>

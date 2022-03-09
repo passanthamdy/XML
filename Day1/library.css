@@ -1,0 +1,39 @@
+library{
+    background: rgb(23,19,92);
+    background: linear-gradient(90deg, rgba(23,19,92,1) 0%, rgba(149,50,68,1) 88%, rgba(168,43,43,1) 100%); 
+    color: rgb(209, 206, 206);
+}
+location, librarian, description{
+    display:block;
+    font-size: 35px;
+    padding: 10px;
+}
+book{
+
+    display: block;
+    padding: 10px;
+}
+title,isbn,author,preface,chapters{
+    display: block;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+booktitle{
+    font-size: 35px;
+    display: block;
+    padding-bottom: 10px;
+}
+chapter{
+    margin-left: 20px;
+    display: block;
+    padding-bottom: 5px;
+}
+chapter-title{
+    margin-left: 30px;
+    display: block;
+}
+ summary,paragraph{
+    margin-left: 60px;
+    display: block;
+    padding-bottom: 3px;;
+}

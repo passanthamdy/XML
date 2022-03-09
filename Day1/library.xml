@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="library.css"?>
+<library>
+    <location>
+        Library location : Alex
+    </location>
+    <description>description of Marvel library</description>
+    <librarian>Marvel</librarian>
+    <books>
+        <book>
+            <booktitle>Book1-iron man</booktitle>
+            <isbn>ISBN :1234567891234</isbn>
+            <author>Author : Tony Stark</author>
+            <preface>Iron Man, American comic book superhero, a mainstay of Marvel Comics,</preface>
+            <parts>
+                <part>
+                    <title>Iron Man 1- Part 1</title>
+                    <chapters>
+                        <chapter>
+                            <chapter-title>ChAPTERS1 :Chapter of iron man 1</chapter-title>
+                            <summary>this is a summary for chapter 1 of iron man 1</summary>
+                            <section>
+                                <paragraph> a paragraph for section 1 in chapter 1 in part 1 - iron man1 </paragraph>
+                            </section>
+                            <section>
+                                <paragraph>a paragraph for section 2 in chapter 1 in part 1 - iron man1</paragraph>
+                            </section>
+                        </chapter>
+                    </chapters>
+                    <chapters>
+                        <chapter>
+                            <chapter-title>CHAPTERS2 : Chapter of iron man 1 </chapter-title>
+                            <summary>this is a summary for chapter 2 of iron man 1 part 1</summary>
+                            <section>
+                                <paragraph>a paragraph for section 1 in chapter 2 in part 1 - iron man1</paragraph>
+                            </section>
+                            <section>
+                                <paragraph>a paragraph for section 2 in chapter 2 in part 1 - iron man1</paragraph>
+                            </section>
+                        </chapter>
+                    </chapters>
+
+                </part>
+                <part>
+                    <title>Iron Man 2 - Part 2</title>
+                    <chapters>
+                        <chapter>
+                            <chapter-title>ChAPTERS1 :Chapter of iron man 2- part 2</chapter-title>
+                            <summary>this is a summary for chapter 1 of iron man 2 - part 2</summary>
+                            <section>
+                                <paragraph> a paragraph for section 1 in chapter 1 in  iron man2 - part 2 </paragraph>
+                            </section>
+                            <section>
+                                <paragraph>a paragraph for section 2 in chapter 1 in part 2 - iron man2</paragraph>
+                            </section>
+                        </chapter>
+                    </chapters>
+                    <chapters>
+                        <chapter>
+                            <chapter-title>CHAPTERS2 : Chapter of iron man 2-Part 2 </chapter-title>
+                            <summary>this is a summary for chapter 2 of iron man 2 part 2</summary>
+                            <section>
+                                <paragraph>a paragraph for section 1 in chapter 2 in part 2 - iron man2</paragraph>
+                            </section>
+                            <section>
+                                <paragraph>a paragraph for section 2 in chapter 2 in part 2 - iron man2</paragraph>
+                            </section>
+                        </chapter>
+                    </chapters>
+
+                </part>
+            </parts>
+        </book>
+        <book>
+            <title>wanda</title>
+            <isbn></isbn>
+            <author></author>
+            <preface></preface>
+            <parts>
+                <part>
+                    <title></title>
+                    <chapters>
+                        <chapter>
+                            <chapter-title></chapter-title>
+                            <summary></summary>
+                            <section>
+                                <paragraph></paragraph>
+                            </section>
+                            <section>
+                                <paragraph></paragraph>
+                            </section>
+                        </chapter>
+                        <chapter>
+                            <chapter-title></chapter-title>
+                            <summary></summary>
+                            <section>
+                                <paragraph></paragraph>
+                            </section>
+                            <section>
+                                <paragraph></paragraph>
+                            </section>
+                        </chapter>
+                    </chapters>
+                    <chapters>
+                        <chapter>
+                            <chapter-title></chapter-title>
+                            <summary></summary>
+                            <section>
+                                <paragraph></paragraph>
+                            </section>
+                            <section>
+                                <paragraph></paragraph>
+                            </section>
+                        </chapter>
+                        <chapter>
+                            <chapter-title></chapter-title>
+                            <summary></summary>
+                            <section>
+                                <paragraph></paragraph>
+                            </section>
+                            <section>
+                                <paragraph></paragraph>
+                            </section>
+                        </chapter>
+                    </chapters>
+
+                </part>
+                <part>
+                    <title></title>
+                    <chapters>
+                        <chapter>
+                            <chapter-title></chapter-title>
+                            <summary></summary>
+                            <section>
+                                <paragraph></paragraph>
+                            </section>
+                            <section>
+                                <paragraph></paragraph>
+                            </section>
+                        </chapter>
+                        <chapter>
+                            <chapter-title></chapter-title>
+                            <summary></summary>
+                            <section>
+                                <paragraph></paragraph>
+                            </section>
+                            <section>
+                                <paragraph></paragraph>
+                            </section>
+                        </chapter>
+                    </chapters>
+                    <chapters>
+                        <chapter>
+                            <chapter-title></chapter-title>
+                            <summary></summary>
+                            <section>
+                                <paragraph></paragraph>
+                            </section>
+                            <section>
+                                <paragraph></paragraph>
+                            </section>
+                        </chapter>
+                        <chapter>
+                            <chapter-title></chapter-title>
+                            <summary></summary>
+                            <section>
+                                <paragraph></paragraph>
+                            </section>
+                            <section>
+                                <paragraph></paragraph>
+                            </section>
+                        </chapter>
+                    </chapters>
+
+                </part>
+            </parts>
+        </book>
+
+
+    </books>
+</library>
