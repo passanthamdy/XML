@@ -1,0 +1,19 @@
+
+<!ELEMENT empContact (info+)>
+<!ELEMENT info (name, phones,addresses,email)>
+<!ELEMENT phones (phone+)>
+<!ATTLIST phone type CDATA #REQUIRED>
+<!ELEMENT phone (#PCDATA)>
+
+<!ELEMENT addresses (address1,address2)>
+<!ELEMENT address1 (street , buildingno, region,city , country)>
+<!ELEMENT address2 (street , buildingno, region,city , country)>
+<!ELEMENT street (#PCDATA)>
+<!ELEMENT buildingno (#PCDATA)>
+<!ELEMENT region (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT email (#PCDATA)  >
+<!ELEMENT body (#PCDATA)>
